@@ -1,4 +1,8 @@
 .par1 {
     font-size: 50px;
     background-color: rgb(255, 215, 196);
+
+    .par2 {
+        font-size: 30px;
+    }
 }
