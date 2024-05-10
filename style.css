@@ -3,11 +3,11 @@
     background-color: rgb(255, 215, 196);
     text-align: center;
 
-    .par2 {
+.par2 {
         font-size: 35px;
         color: blueviolet;
     }
 
-    .imagem{
-        width: 50%;
+.imagem {
+        width: 50px;
     }
